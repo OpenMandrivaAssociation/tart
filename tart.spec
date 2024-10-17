@@ -8,7 +8,7 @@ Release:	%mkrel 1
 Source0:	%{name}-%{version}.tar.gz
 License:	GPLv2
 Group:		Development/Other
-Url:		http://gforge.inria.fr/projects/sodiac
+Url:		https://gforge.inria.fr/projects/sodiac
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 Buildrequires:	ocaml-dose2-devel
